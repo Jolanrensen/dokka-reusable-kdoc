@@ -1,2 +1,2 @@
-rootProject.name = "awesome-dokka-plugin"
+rootProject.name = "dokka-reusable-kdoc-plugin"
 
